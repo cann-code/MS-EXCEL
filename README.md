@@ -16,4 +16,4 @@
 ## DAY4
 -CONDITIONAL FORMATTING FOR COLOUR AND PROFIT/LOSS
 -PIE CHART
--
+-<img width="929" alt="Screenshot 2024-08-28 154842" src="https://github.com/user-attachments/assets/166c3737-13ac-4b88-a926-249850affaf5">
